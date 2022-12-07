@@ -12,7 +12,7 @@
         'pip_requirements',
       ],
       reviewers: [
-        'team:team2',
+        'team:team3',
       ],
     },
     {
