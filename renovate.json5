@@ -15,5 +15,21 @@
         'team:team2',
       ],
     },
+    {
+      matchPaths: [
+        '**',
+      ],
+      reviewers: [
+        'team:team3',
+      ],
+    },
+    {
+      matchPaths: [
+        'folder1/subfolder1/**',
+      ],
+      additionalReviewers: [
+        'team:team4',
+      ],
+    },
   ],
 }
